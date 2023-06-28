@@ -1,0 +1,45 @@
+.tank-1{
+    background-color:azure;
+    height: 100vh;
+    width: 100vh;
+}
+.name-container{
+   padding-top: 60px;
+   margin-bottom: 60px;
+   font-size: 30px;
+}
+.img-container{
+    padding-top: 60px;
+    height: 400px;
+    width: 400px;
+    background-color:white;
+    box-shadow: 10px 20px 30px rgb(36, 164, 214);
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    border: 1px inset black ;
+}
+.c{
+    padding-bottom: 50px;
+}
+
+.c:hover{
+    height: 300px;
+    width: 300px;
+}
+.tank-2{
+  height: auto;
+}
+.content{
+   
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow:10px 20px 30px rgb(36, 164, 214);
+    
+
+}
